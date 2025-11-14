@@ -22,12 +22,12 @@ A comprehensive, real-time system monitoring application for Windows, written in
 - **Console Mode**: Command-line interface for server environments
 - **Real-time Updates**: Configurable refresh intervals
 
-### 📤 **Data Export**
+###  **Data Export**
 - **JSON Export**: Structured data for integration
 - **CSV Export**: Spreadsheet-compatible format
 - **XML Export**: Hierarchical data representation
 
-### 🔧 **Advanced Features**
+###  **Advanced Features**
 - **System Event Logs**: Windows Event Log integration
 - **Historical Data**: Configurable data retention
 - **Configuration System**: INI-based settings management
